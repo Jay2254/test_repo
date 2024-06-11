@@ -2,3 +2,5 @@
 repo to test features of private repo
 
 ConfigToolVer:[3.10,3.09]
+
+ConfigLTToolVer:[1.00]
